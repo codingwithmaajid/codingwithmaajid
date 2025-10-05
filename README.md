@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Maajid</h1>
+<h1 align="center">Myself Abdul Maajid😁</h1>
 <h3 align="center">🧬 Passion for Code + Curiosity for Chaos</h3>
 
 - 🔭 I’m currently working on **SIH**
@@ -20,3 +20,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/abdul_maajid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/abdul_maajid" /></a></p><br><br>
 
+<hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZ6OXdpN2RxaDk4dW8ydDdndmcxamIweHN4NTk0NTdybmM2OHNqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"
+       alt="Cybersecurity Vibes" 
+       width="600" 
+       style="border-radius:10px;"/>
+</p>
