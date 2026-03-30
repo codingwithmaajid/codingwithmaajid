@@ -17,7 +17,7 @@
 - 🤖 Building **small AI + agent-based projects**  
 - ⚙️ Exploring **low-budget hardware builds**  
 - 💪 Working on **fitness & consistency**  
-- 🏆 Preparing for **hackathons like SIH**  
+- 🏆 Preparing for **hackathons**  
 
 ---
 
@@ -26,7 +26,6 @@
 - Cybersecurity (beginner but curious 👀)  
 - Full-stack development  
 - Minimal, clean UI/UX  
-- Learning Japanese, Malayalam & more  
 
 ---
 
