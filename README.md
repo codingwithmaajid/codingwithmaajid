@@ -1,29 +1,72 @@
-<h1 align="center">Myself Abdul Maajid😁</h1>
-<h3 align="center">🧬 Passion for Code + Curiosity for Chaos</h3>
+<h1 align="center">Abdul Maajid ⚡</h1>
+<h3 align="center">Building myself while building tech 🚀</h3>
 
-- 🔭 I’m currently working on **SIH**
+---
 
-- 👯 I’m looking to collaborate on **Anything**
+### 🧠 About Me
+- 🎓 Computer Science Student  
+- 🔥 Currently in a **self-rebuild phase** (discipline, fitness, skills)  
+- 🛠️ Into **AI + Hardware + System-level projects**  
+- 🐧 Daily driving **Arch-based Linux**  
+- 🌏 Learning languages & exploring new cultures  
 
-- 🤝 I’m looking for help with **Anything**
+---
 
-- 📫 How to reach me **abdulmaajid7002@gmail.com**
+### 🚀 What I'm Doing Right Now
+- 🧠 Focusing on **core CS + real skills (not just theory)**  
+- 🤖 Building **small AI + agent-based projects**  
+- ⚙️ Exploring **low-budget hardware builds**  
+- 💪 Working on **fitness & consistency**  
+- 🏆 Preparing for **hackathons like SIH**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧩 Interests
+- AI Systems & Automation  
+- Cybersecurity (beginner but curious 👀)  
+- Full-stack development  
+- Minimal, clean UI/UX  
+- Learning Japanese, Malayalam & more  
+
+---
+
+### 🤝 Open To
+- Collaborations (projects, hackathons, ideas)  
+- Learning from people better than me  
+- Building something crazy from scratch  
+
+---
+
+### 📫 Reach Me
+- 📧 abdulmaajid7002@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/codingwithmaajid)
+
+---
+
+### 🧰 Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/codingwithmaajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/codingwithmaajid" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,html,mysql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/abdul_maajid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/abdul_maajid" /></a></p><br><br>
+### ⚡ Current Mindset
+> “No more waiting. Just build, fail, learn, repeat.”
 
-<hr>
+---
+
+### ☕ Support
+<p>
+<a href="https://buymeacoffee.com/abdul_maajid">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+</a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZ6OXdpN2RxaDk4dW8ydDdndmcxamIweHN4NTk0NTdybmM2OHNqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif"
        alt="Cybersecurity Vibes" 
-       width="600" 
+       width="600"
        style="border-radius:10px;"/>
 </p>
