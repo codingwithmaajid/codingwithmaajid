@@ -3,14 +3,16 @@
 
 ---
 
+
 ### 🧠 About Me
-- 🎓 Sophomore Computer Science Student  
+- 🎓 Sophomore CS Student
 - 🔥 Currently in a **self-rebuild phase** (discipline, fitness, skills)  
 - 🛠️ Into **AI + Cloud + System-level projects**  
 - 🐧 Daily driving **Arch-based Linux**  
 - 🌏 Learning languages & exploring new cultures  
 
 ---
+
 
 ### 🚀 What I'm Doing Right Now
 - 🧠 Focusing on **core CS + real skills (not just theory)**  
