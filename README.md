@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 - 🎓 Sophomore CS Student
-- 🔥 Currently in a **self-rebuild phase** (discipline, fitness, skills)  
+- 🔥 Currently in a **self-rebuild phase** (discipline, fitness, skills ,etc)  
 - 🛠️ Into **AI + Cloud + System-level projects**  
 - 🐧 Daily driving **Arch-based Linux**  
 - 🌏 Learning languages & exploring new cultures  
