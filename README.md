@@ -4,9 +4,9 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Computer Science Student  
+- 🎓 Sophomore Computer Science Student  
 - 🔥 Currently in a **self-rebuild phase** (discipline, fitness, skills)  
-- 🛠️ Into **AI + Hardware + System-level projects**  
+- 🛠️ Into **AI + Cloud + System-level projects**  
 - 🐧 Daily driving **Arch-based Linux**  
 - 🌏 Learning languages & exploring new cultures  
 
