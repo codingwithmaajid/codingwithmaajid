@@ -27,7 +27,7 @@
 - AI Systems & Automation  
 - Cybersecurity (beginner but curious 👀)  
 - Full-stack development  
-- Minimal, clean UI/UX  
+- Minimal, clean UI/UX designs
 
 ---
 
