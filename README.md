@@ -1,4 +1,4 @@
-<h1 align="center">Abdul Maajid ⚡</h1>
+<h1 align="center">Abdul Maajid 🖤</h1>
 <h2 align="center">Building Myself while Building Tech 🚀</h2>
 
 ---
